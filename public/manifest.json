@@ -1,0 +1,13 @@
+{
+  "name": "WLED Table Controller",
+  "version": "1.0.0",
+  "manifest_version": 1,
+  "description": "Control tabletop lighting through Owlbear Rodeo.",
+  "action": {
+    "title": "Table Lights",
+    "icon": "/icon.svg",
+    "popover": "/",
+    "height": 600,
+    "width": 400
+  }
+}
