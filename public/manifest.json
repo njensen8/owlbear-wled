@@ -5,8 +5,8 @@
   "description": "Control tabletop lighting through Owlbear Rodeo.",
   "action": {
     "title": "Table Lights",
-    "icon": "/icon.svg",
-    "popover": "/",
+    "icon": "/owlbear-wled/icon.svg",
+    "popover": "/owlbear-wled/",
     "height": 600,
     "width": 400
   }
